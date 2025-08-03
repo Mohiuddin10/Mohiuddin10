@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **react, javascript, go, nodejs, mongoDB, mongosh, mysql, oop**
+- 💬 Ask me about **react, nextJs, javascript, go, nodejs, mongoDB, mongosh, mysql, oop**
 
 - 📫 How to reach me **sj.ctg6737@gmail.com**
 
